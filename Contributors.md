@@ -685,6 +685,7 @@ Arjun Palathinkara
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
+- [Kumar Mudur](https://github.com/kumarmudur)
 - [Domanrovil Ovalle](https://github.com/Domanrovil)
 - [Atahan Serbetci](https://github.com/atahann7)
 - [Isaac Zerououl](https://github.com/p2557506)
